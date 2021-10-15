@@ -1,4 +1,4 @@
-module github.com/sbabiv/xml2map
+module github.com/vanbroup/xml2map
 
 go 1.17
 
